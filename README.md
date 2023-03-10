@@ -11,7 +11,7 @@ Lorem Ipsum
 
 --------------------
 
-# Hardware
+## Hardware
 dauer8
 Anandtech
 IEEE Spectrum
