@@ -11,6 +11,9 @@ Lorem Ipsum
 
 --------------------
 
+## Crypto
+- [Reconstructing ROCA](https://blog.cr.yp.to/20171105-infineon.html): A case study of how quickly an attack can be developed from a limited disclosure. #infineon #roca #rsa
+
 ## Hardware
 dauer8
 Anandtech
