@@ -8,6 +8,7 @@ Lorem Ipsum
 - [Hardware](#hardware)
 - [Software](#software)
   - [Selfhosted](#selfhosted)
+  - [ZFS](#ZFS)
 
 --------------------
 
@@ -24,3 +25,5 @@ HardwareCanucks (stavning?)
 ## Software
 ### Selfhosted
 - [Awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+### ZFS
+- [The Last Word in File Systems](https://www.youtube.com/watch?v=NRoUC9P1PmA)
