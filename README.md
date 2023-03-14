@@ -26,4 +26,5 @@ dauer8(?)
 ### Selfhosted
 - [Awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 ### ZFS
-- [The Last Word in File Systems](https://www.youtube.com/watch?v=NRoUC9P1PmA)
+- [The Last Word in File Systems](https://www.youtube.com/watch?v=NRoUC9P1PmA) - lecture
+- [The Last Word in File Systems](https://www.snia.org/sites/default/orig/sdc_archives/2008_presentations/monday/JeffBonwick-BillMoore_ZFS.pdf) - presentation
